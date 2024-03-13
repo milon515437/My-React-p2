@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL…EHL-Insights/digital-transformation-framework.jpg",
+      "title": "Amazing Adventures",
+      "author": "Alex Johnson",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor1.jpg",
+      "postedDate": "2024-03-12",
+      "readingTime": "2 ",
+      "hashtag": "#adventure #fiction"
+    },
+    {
+      "id": 2,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/Curricula-Evaluation.png",
+      "title": "Space Odyssey",
+      "author": "Sophia Rodriguez",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor2.jpg",
+      "postedDate": "2024-03-11",
+      "readingTime": "1.5 ",
+      "hashtag": "#sci-fi #exploration"
+    },
+    {
+      "id": 3,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/SoTL-2024.gif",
+      "title": "Mysterious Secrets",
+      "author": "Michael Baker",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor3.jpg",
+      "postedDate": "2024-03-10",
+      "readingTime": "3 ",
+      "hashtag": "#mystery #thriller"
+    },
+    {
+      "id": 4,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/innovative-teaching-techniques-learning-facilitators.png",
+      "title": "Cooking Delights",
+      "author": "Emily Cook",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor4.jpg",
+      "postedDate": "2024-03-09",
+      "readingTime": "1 hour",
+      "hashtag": "#cookbook #recipes"
+    },
+    {
+      "id": 5,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/Curricula-Evaluation.png",
+      "title": "Historical Journeys",
+      "author": "David Williams",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor5.jpg",
+      "postedDate": "2024-03-08",
+      "readingTime": "2.5 ",
+      "hashtag": "#history #exploration"
+    },
+    {
+      "id": 6,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/innovative-teaching-techniques-learning-facilitators.png",
+      "title": "Tech Innovations",
+      "author": "Emma Tech",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor6.jpg",
+      "postedDate": "2024-03-07",
+      "readingTime": "1.5 ",
+      "hashtag": "#technology #innovation"
+    },
+    {
+      "id": 7,
+      "coverImage": "https://hospitalityinsights.ehl.edu/hubfs/innovative-teaching-techniques-learning-facilitators.png",
+      "title": "Poetry Expressions",
+      "author": "Daniel Poet",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor7.jpg",
+      "postedDate": "2024-03-06",
+      "readingTime": "1 hour",
+      "hashtag": "#poetry #expressions"
+    },
+    {
+      "id": 8,
+      "coverImage": "https://media.licdn.com/dms/image/D5612AQEEsO4_MnI…eta&t=MVhYUynFCZyLG8_SA9UjgwvdTDpFyAq_mPd1Xh-u4rU",
+      "title": "Artistic Wonders",
+      "author": "Olivia Artist",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor8.jpg",
+      "postedDate": "2024-03-05",
+      "readingTime": "2 ",
+      "hashtag": "#art #creativity"
+    },
+    {
+      "id": 9,
+      "coverImage": "https://media.licdn.com/dms/image/D5612AQGdzafxjLD…eta&t=4UvjjrcJpjl5dW1CYzx6kHeVill8xKfwN-LJ4lI4cdw",
+      "title": "Fitness Journey",
+      "author": "Ryan Fit",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.png",
+      "postedDate": "2024-03-04",
+      "readingTime": "1.5 ",
+      "hashtag": "#fitness #health"
+    },
+    {
+      "id": 10,
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…oTTHY4r5a8V6wTuINYdvM65pUL9-8vCGPWCpimDg&usqp=CAU",
+      "title": "Mindfulness Moments",
+      "author": "Mia Mindful",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor10.jpg",
+      "postedDate": "2024-03-03",
+      "readingTime": "2 ",
+      "hashtag": "#mindfulness #selfcare"
+    },
+    {
+      "id": 11,
+      "coverImage": "https://media.licdn.com/dms/image/D5612AQHXqfOR9zZ…eta&t=jMGpqga2VLIVSPW84KhEkjl8LTL-OF1epL3d0ohHLkw",
+      "title": "Travel Chronicles",
+      "author": "Chris Traveler",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor11.jpg",
+      "postedDate": "2024-03-02",
+      "readingTime": "3 ",
+      "hashtag": "#travel #adventure"
+    },
+    {
+      "id": 12,
+      "coverImage": "https://cdn.elearningindustry.com/wp-content/uploads/2022/01/shutterstock_739408204.jpg",
+      "title": "Science Wonders",
+      "author": "Sophie Scientist",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor12.jpg",
+      "postedDate": "2024-03-01",
+      "readingTime": "2.5 ",
+      "hashtag": "#science #exploration"
+    },
+    {
+      "id": 13,
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…oTTHY4r5a8V6wTuINYdvM65pUL9-8vCGPWCpimDg&usqp=CAU",
+      "title": "Fantasy Realm",
+      "author": "Frank Fantasy",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor13.jpg",
+      "postedDate": "2024-02-29",
+      "readingTime": "2 ",
+      "hashtag": "#fantasy #novel"
+    },
+    {
+      "id": 14,
+      "coverImage": "https://elearningindustry.com/wp-content/uploads/2022/09/Shutterstock_1639424710.jpg",
+      "title": "Business Insights",
+      "author": "Bella Business",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor14.jpg",
+      "postedDate": "2024-02-28",
+      "readingTime": "1.5 ",
+      "hashtag": "#business #insights"
+    },
+    {
+      "id": 15,
+      "coverImage": "https://elearningindustry.com/wp-content/uploads/2…ent-privacy-when-using-educational-technology.jpg",
+      "title": "Comedy Corner",
+      "author": "Charlie Comedian",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor15.jpg",
+      "postedDate": "2024-02-27",
+      "readingTime": "1 hour",
+      "hashtag": "#comedy #laughter"
+    },
+    {
+      "id": 16,
+      "coverImage": "https://elearningindustry.com/wp-content/uploads/2…echnology-in-special-education-e1533030367757.png",
+      "title": "Romantic Escapes",
+      "author": "Ruby Romantic",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor16.jpg",
+      "postedDate": "2024-02-26",
+      "readingTime": "2 ",
+      "hashtag": "#romance #love"
+    },
+    {
+      "id": 17,
+      "coverImage": "https://elearningindustry.com/wp-content/uploads/2023/01/shutterstock_65295724.jpg",
+      "title": "Gaming Chronicles",
+      "author": "Gabe Gamer",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor17.jpg",
+      "postedDate": "2024-02-25",
+      "readingTime": "1.5 ",
+      "hashtag": "#gaming #adventure"
+    },
+    {
+      "id": 18,
+      "coverImage": "https://cdn.elearningindustry.com/wp-content/uploads/2022/11/shutterstock_1795173874.jpg",
+      "title": "Educational Journeys",
+      "author": "Eva Educator",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor18.jpg",
+      "postedDate": "2024-02-24",
+      "readingTime": "3 ",
+      "hashtag": "#education #learning"
+    },
+    {
+      "id": 19,
+      "coverImage": "https://community.connection.com/wp-content/upload…2018/12/837375-5-Technology-Trends-Alton-BLOG.png",
+      "title": "Nature's Beauty",
+      "author": "Nathan Nature",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2019/06/bde88be32109f9ffef6788cbfd9da84d.jpeg",
+      "postedDate": "2024-02-23",
+      "readingTime": "2 ",
+      "hashtag": "#nature #exploration"
+    },
+    {
+      "id": 20,
+      "coverImage": "https://neu.edu.tr/wp-content/uploads/2021/10/13/d…1024x734.jpg?ver=604f4d3cf9b0ee5051bcc76e3a093750",
+      "title": "Spiritual Insights",
+      "author": "Sara Spirit",
+      "authorImage": "https://elearningindustry.com/wp-content/uploads/2018/07/36fcbe8bfc5b6a54b4f77469f23b0e37.pngauthor20.jpg",
+      "postedDate": "2024-02-22",
+      "readingTime": "2.5 ",
+      "hashtag": "#spirituality #mindfulness"
+    }
+  ]
+  
